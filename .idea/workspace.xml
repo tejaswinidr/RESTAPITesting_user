@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d7198e-97b7-40f7-bc84-faba6d69eacc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RestAPITesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Product_API_Testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/configurations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/payLoad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/resources_api.py" afterDir="false" />
-    </list>
+    <list default="true" id="65d7198e-97b7-40f7-bc84-faba6d69eacc" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,12 +63,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703483692480</updated>
-      <workItem from="1703483694432" duration="9307000" />
+      <workItem from="1703483694432" duration="9731000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1703506058098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703506058098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
